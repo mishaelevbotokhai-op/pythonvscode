@@ -54,4 +54,6 @@ if st.button('See your score'):
         grade = 'F'                  
 
 
+#help new code
+
     st.write(name,'Your total score is ',totalscore,'and your average score is ',averagescore,'Your grade score is',grade)    
